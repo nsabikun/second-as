@@ -8,3 +8,11 @@
 .half img{
     width: 80%;
 }
+    
+.button{
+    background-color: blue;
+    color: white;
+    border: none;
+    
+}
+
